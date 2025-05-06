@@ -5,4 +5,4 @@ For this project, I analyzed publicly accessible data from Kaggle [Link](https:/
 
 This repo contains the following notebooks:
 1. [mlb_analysis.ipynb](https://github.com/Ajoksy96/nurse-staffing-agency/blob/main/nsa_cleaning.ipynb): The detailed Python notebook I used to clean and explore the data and build the machine learning model for this project.
-2. [Tableau dashboard of the project]((https://public.tableau.com/app/profile/adebisi.akinyemi/viz/mlbtableauworkbook/MLBHomeAttendanceDashboard) (not a notebook in this repo, but a link only).
+2. [Tableau dashboard of the project](https://public.tableau.com/app/profile/adebisi.akinyemi/viz/mlbtableauworkbook/MLBHomeAttendanceDashboard) (not a notebook in this repo, but a link only).
